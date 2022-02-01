@@ -58,8 +58,4 @@ public class LisasWorkbook {
         int k = 3;
         Assert.assertEquals(workbook(list.size(), k, list), 4 );
     }
-
-
-
-
 }
