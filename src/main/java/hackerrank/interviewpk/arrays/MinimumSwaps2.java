@@ -2,12 +2,6 @@ package hackerrank.interviewpk.arrays;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
-
 /*
     https://www.hackerrank.com/challenges/minimum-swaps-2/problem
  */
