@@ -18,7 +18,6 @@ public class JavaStringReverse {
             r--;
         }
         return l >= r;
-
     }
 
     @Test
